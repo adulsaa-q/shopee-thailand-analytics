@@ -31,6 +31,9 @@
 | `shopee_shipments_thailand` | 360,187 | Delivery status and courier data |
 | `shopee_reviews_thailand` | 360,187 | Customer reviews per order item |
 
+Dataset from Kaggle — available for download here:  
+🔗 [Shopee TH Customer Journey and Operations Dataset](https://www.kaggle.com/datasets/hninshwezinhlaing/shopee-th-customer-journey-and-operations-dataset)
+
 ---
 
 ## 🔑 Key Business Insights
