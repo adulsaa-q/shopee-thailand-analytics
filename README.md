@@ -111,6 +111,8 @@ dimDate ──────────────────► shopee_orders_
            shopee_product_campaign
                 _thailand
 ```
+### Data Model
+![Data Model](insights/screenshots/data_model.png)
 
 ---
 
